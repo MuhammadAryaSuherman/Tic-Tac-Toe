@@ -58,12 +58,12 @@ button {
 
 button:hover {
   background-color: rgb(223, 22, 22);
-  transform: scale(1.1); /* Membuat tombol sedikit lebih besar saat hover */
+  transform: scale(1.1);
 }
 
 button:active {
   background-color: #004d00;
-  transform: scale(0.9); /* Membuat tombol sedikit lebih kecil saat diklik */
+  transform: scale(0.9);
 }
 
 .status {
